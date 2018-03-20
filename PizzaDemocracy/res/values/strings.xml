@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, PizzaDemocracyActivity!</string>
+    <string name="app_name">Pizza Democracy</string>
+    <string name="pizza_prompt1">Choose your favorite topping</string>
+    <string name="pizza_prompt2">Choose your second favorite topping</string>
+    <string name="pizza_prompt3">Choose your third favorite topping</string>
+    <string name="pizza_prompt4">Choose a topping you hate</string>
+    <string name="number_pizzas">Pizzas</string>
+    <string name="number_toppings">Toppings</string>
+    <string name="pizza_empty">None</string>
+    <color name="white">#FFFFFF</color>
+</resources>
